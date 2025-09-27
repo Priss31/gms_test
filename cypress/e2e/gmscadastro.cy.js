@@ -1,3 +1,5 @@
+//***PRECISEI INVERTER A PORTA DO BANCO COM A DO FRONT PARA PODER RODAR NA MINHA MÁQUINA */
+
 ///<reference types="cypress" />
 
 describe('US-012 Funcionalidade: Cadastro de membros', () => {
